@@ -28,6 +28,7 @@ Then past :
 
 ## EmailService :
 
+- Go to : src/main/java/com/example/secure/registration/email/EmailService.java.
 - Change the email in setFrom function with your email.
 
 
