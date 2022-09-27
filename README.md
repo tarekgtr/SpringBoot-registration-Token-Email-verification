@@ -9,7 +9,7 @@ To run this app perfectly you need some configurations :
 
 
 
-## Gmail configurations
+## Gmail configurations :
 
 - Go to : https://myaccount.google.com/security .
 
